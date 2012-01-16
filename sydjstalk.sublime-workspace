@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <title>impress.js | presentation tool based on the power of CSS3 transforms and transitions in modern browsers | by Bartek Szopka @bartaz</title>\n    \n    <meta name=\"description\" content=\"impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.\">\n    <meta name=\"author\" content=\"Bartek Szopka\" />\n\n    <link href=\"http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic\" rel=\"stylesheet\" />\n\n    <link href=\"css/impress.css\" rel=\"stylesheet\" />\n</head>\n<body>\n\n<div id=\"impress\" class=\"impress-not-supported\">\n\n    <div class=\"fallback-message\">\n        <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>\n        <p>For the best experience please use the latest <b>Chrome</b> or <b>Safari</b> browser. Firefox 10 (to be released soon) will also handle it.</p>\n    </div>\n\n\n\n    <div id=\"george\" class=\"step\" data-x=\"100\" data-y=\"100\" data-rotate=\"0\" data-scale=\"2\" date-z=\"0\">\n    <p> George </p>\n       <img src=\"images/pirate.png\" />\n    </div>\n\n    <div id=\"tiny\" class=\"step\" data-x=\"-300\" data-y=\"-100\" data-z=\"1\" data-rotate=\"0\" data-scale=\"10\">\n       <img class=\"tree\" id=\"tree-1\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-2\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-3\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-4\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-5\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-6\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-7\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-8\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-9\" src=\"images/tree.png\" />\n       <img  class=\"tree\"id=\"tree-10\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-11\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-12\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-13\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-14\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-15\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-16\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-17\" src=\"images/tree.png\" />\n\n    </div>\n\n    <div id=\"ing\" class=\"step\" data-x=\"3500\" data-y=\"-850\" data-rotate=\"270\" data-scale=\"6\">\n        <p>by <b class=\"positioning\">positioning</b>, <b class=\"rotating\">rotating</b> and <b class=\"scaling\">scaling</b> them on an infinite canvas</p>\n    </div>\n\n    <div id=\"imagination\" class=\"step\" data-x=\"6700\" data-y=\"-300\" data-scale=\"6\">\n        <p>the only <b>limit</b> is your <b class=\"imagination\">imagination</b></p>\n    </div>\n\n    <div id=\"source\" class=\"step\" data-x=\"6300\" data-y=\"2000\" data-rotate=\"20\" data-scale=\"4\">\n        <p>want to know more?</p>\n        <q><a href=\"http://github.com/bartaz/impress.js\">use the source</a>, Luke!</q>\n    </div>\n\n    <div id=\"one-more-thing\" class=\"step\" data-x=\"6000\" data-y=\"4000\" data-scale=\"2\">\n        <p>one more thing...</p>\n    </div>\n\n    <div id=\"its-in-3d\" class=\"step\" data-x=\"6200\" data-y=\"4300\" data-z=\"-100\" data-rotate-x=\"-40\" data-rotate-y=\"10\" data-scale=\"2\">\n        <p><span class=\"have\">have</span> <span class=\"you\">you</span> <span class=\"noticed\">noticed</span> <span class=\"its\">it's</span> <span class=\"in\">in</span> <b>3D<sup>*</sup></b>?</p>\n        <span class=\"footnote\">* beat that, prezi ;)</span>\n    </div>\n\n    <div id=\"overview\" class=\"step\" data-x=\"3000\" data-y=\"1500\" data-scale=\"10\">\n    </div>\n\n</div>\n\n<div class=\"hint\">\n    <p>Use a spacebar or arrow keys to navigate</p>\n</div>\n\n<script src=\"js/impress.js\"></script>\n\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 4068,
+			"file_write_time": 129711735304714026,
+			"settings":
+			{
+				"buffer_size": 3936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/impress.js",
+			"settings":
+			{
+				"buffer_size": 9896,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/impress.css",
+			"settings":
+			{
+				"buffer_size": 13530,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Code/sydjstalk/sydjstalk.sublime-workspace",
+		"/F/Code/sydjstalk/index.html",
+		"/F/Code/woject/woject/project/model.py",
+		"/F/Code/woject/woject/project/handler.py",
+		"/F/Code/woject/woject/project/__init__.py",
+		"/F/Code/woject/woject/oauth2/__init__.py",
+		"/F/Code/woject/woject/oauth2/oauth_providers.py",
+		"/F/Code/woject/woject/httplib2/iri2uri.py",
+		"/F/Code/woject/woject/SourceControl/GitHub.py",
+		"/F/Code/woject/woject/SourceControl/__init__.py",
+		"/F/Code/woject/woject/SourceControl/bitbucket.py",
+		"/F/Code/Jsconftalk/index.html",
+		"/C/Users/rioter/Downloads/gitignore",
+		"/G/Downloads/Finished/Quake 4/Goppie.nfo",
+		"/C/Users/rioter/Documents/unrar.ps1",
+		"/F/Code/woject/woject/SourceControl/oauth_providers.py",
+		"/F/Code/woject/woject/httplib2/__init__.py",
+		"/F/Code/woject/woject/templates/project/create.html",
+		"/F/Code/woject/woject/templates.py",
+		"/F/Code/woject/woject/main.py",
+		"/F/Code/woject/woject/SourceControl/GitHub",
+		"/F/Code/woject/woject/app.yaml",
+		"/F/Code/woject/woject/oauth2/oauth_providers",
+		"/F/Code/woject/woject/__init__.py",
+		"/F/Code/woject/woject/template_manager.py",
+		"/F/Code/woject/woject/woject.sublime-project",
+		"/C/Users/rioter/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/F/Code/woject/woject/.gitignore",
+		"/F/Code/hmlt5wow/src/slides/index.html",
+		"/F/Code/hmlt5wow/src/slides/reflow.html",
+		"/F/Code/hmlt5wow/src/slides/js/slide-presentation.js",
+		"/F/Code/sizzle/sizzle.js",
+		"/F/Code/hmlt5wow/src/slides/js/slide-content.js",
+		"/F/Code/hmlt5wow/src/slides/css/slide-content.less",
+		"/F/Code/hmlt5wow/src/slides/css/prettify.css",
+		"/F/Code/hmlt5wow/src/slides/css/slide-presentation.less",
+		"/F/Code/hmlt5wow/src/slides/videos/reflow.webmvp8.webm",
+		"/F/Code/hmlt5wow/README",
+		"/F/Code/hmlt5wow/NOTICE",
+		"/F/Code/hmlt5wow/src/slides",
+		"/F/Code/offlineAjax/test.html",
+		"/F/Code/sizzle/Makefile",
+		"/F/Code/WebKit/Source/WebKit/win/WebKit.vcproj/WebKit.sln",
+		"/C/Users/rioter/Downloads/KhanAcademy-r1237/Khan Academy/code/download_videos.py",
+		"/F/Code/offlineAjax/offlinePrefilter.js",
+		"/F/Code/offlineAjax/offlineAjax.sublime-project",
+		"/F/Code/offlineAjax/offlinePrefilter",
+		"/F/Code/skunkbucket/gist.py",
+		"/F/Code/skunkbucket/Create.py",
+		"/F/Code/skunkbucket/main.py",
+		"/F/Code/skunkbucket/CreateHandler.py",
+		"/F/Code/skunkbucket/createHandler.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" <aside =\"note\">",
+			"preFilter",
+			"<aside>",
+			"POS",
+			"origPOS",
+			"relative",
+			"pre",
+			".slide .counter",
+			"bg-file",
+			"audio.jpg",
+			"bg-google-blue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<aside class=\"note\">",
+			"<aside =\"note\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1142,
+								1142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/impress.js",
+					"settings":
+					{
+						"buffer_size": 9896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9896,
+								9896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4960.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/impress.css",
+					"settings":
+					{
+						"buffer_size": 13530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13293,
+								13293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8929.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 380.0,
+	"status_bar_visible": true
+}

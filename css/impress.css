@@ -494,3 +494,128 @@ a:hover {
 .impress-not-supported .fallback-message {
     display: block;
 }
+
+
+
+#tree-1 {
+
+    left:-100px;
+    top: -100px;
+}
+
+#tree-2 {
+
+    left: 100px;
+    top: 100px;
+}
+
+#tree-3 {
+
+    left: 400px;
+    top: 0px;
+}
+
+#tree-4 {
+
+       left: 300px;
+    top: -300px;
+}
+
+#tree-5 {
+
+    left: 200px;
+    top: -124px;
+}
+
+#tree-6 {
+
+      left: -100px;
+    top: -200px;
+}
+
+#tree-7 {
+
+       left: 47px;
+    top: -76px;
+}
+#tree-8 {
+
+      left: 200px;
+    top: -124px;
+}
+
+#tree-9 {
+
+    left:-100px;
+    top: -100px;
+}
+
+#tree-10 {
+
+    left:15px;
+    top: 100px;
+}
+
+#tree-11 {
+
+    left: -100px;
+    top: 150px;
+}
+#tree-12 {
+
+    left:-100px;
+    top: -100px;
+}
+#tree-13 {
+
+    left: 300px;
+    top: -100px;
+}
+#tree-14 {
+
+    left:-100px;
+    top: -100px;
+}
+#tree-15 {
+
+    left:-100px;
+    top: -100px;
+}
+#tree-16 {
+
+    left:-100px;
+    top: -100px;
+}
+#tree-17 {
+
+    left:333px;
+    top: 61px;
+}
+
+
+
+
+
+.tree {
+        position: absolute;
+}
+
+.ninja {
+    width: 96px;
+    height: 96px;
+    position: absolute;
+}
+
+#ninja-1 {
+    left: 100px;
+}
+
+#ninja-2 {
+    left: 134px;
+    top:-222px;
+}
+
+#ninja-3 {
+    left: -134px;
+    top: 50px;
+}
