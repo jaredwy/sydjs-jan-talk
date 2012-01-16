@@ -8,13 +8,13 @@
 	"buffers":
 	[
 		{
-			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <title>impress.js | presentation tool based on the power of CSS3 transforms and transitions in modern browsers | by Bartek Szopka @bartaz</title>\n    \n    <meta name=\"description\" content=\"impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.\">\n    <meta name=\"author\" content=\"Bartek Szopka\" />\n\n    <link href=\"http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic\" rel=\"stylesheet\" />\n\n    <link href=\"css/impress.css\" rel=\"stylesheet\" />\n</head>\n<body>\n\n<div id=\"impress\" class=\"impress-not-supported\">\n\n    <div class=\"fallback-message\">\n        <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>\n        <p>For the best experience please use the latest <b>Chrome</b> or <b>Safari</b> browser. Firefox 10 (to be released soon) will also handle it.</p>\n    </div>\n\n\n\n    <div id=\"george\" class=\"step\" data-x=\"100\" data-y=\"100\" data-rotate=\"0\" data-scale=\"2\" date-z=\"0\">\n    <p> George </p>\n       <img src=\"images/pirate.png\" />\n    </div>\n\n    <div id=\"tiny\" class=\"step\" data-x=\"-300\" data-y=\"-100\" data-z=\"1\" data-rotate=\"0\" data-scale=\"10\">\n       <img class=\"tree\" id=\"tree-1\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-2\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-3\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-4\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-5\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-6\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-7\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-8\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-9\" src=\"images/tree.png\" />\n       <img  class=\"tree\"id=\"tree-10\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-11\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-12\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-13\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-14\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-15\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-16\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-17\" src=\"images/tree.png\" />\n\n    </div>\n\n    <div id=\"ing\" class=\"step\" data-x=\"3500\" data-y=\"-850\" data-rotate=\"270\" data-scale=\"6\">\n        <p>by <b class=\"positioning\">positioning</b>, <b class=\"rotating\">rotating</b> and <b class=\"scaling\">scaling</b> them on an infinite canvas</p>\n    </div>\n\n    <div id=\"imagination\" class=\"step\" data-x=\"6700\" data-y=\"-300\" data-scale=\"6\">\n        <p>the only <b>limit</b> is your <b class=\"imagination\">imagination</b></p>\n    </div>\n\n    <div id=\"source\" class=\"step\" data-x=\"6300\" data-y=\"2000\" data-rotate=\"20\" data-scale=\"4\">\n        <p>want to know more?</p>\n        <q><a href=\"http://github.com/bartaz/impress.js\">use the source</a>, Luke!</q>\n    </div>\n\n    <div id=\"one-more-thing\" class=\"step\" data-x=\"6000\" data-y=\"4000\" data-scale=\"2\">\n        <p>one more thing...</p>\n    </div>\n\n    <div id=\"its-in-3d\" class=\"step\" data-x=\"6200\" data-y=\"4300\" data-z=\"-100\" data-rotate-x=\"-40\" data-rotate-y=\"10\" data-scale=\"2\">\n        <p><span class=\"have\">have</span> <span class=\"you\">you</span> <span class=\"noticed\">noticed</span> <span class=\"its\">it's</span> <span class=\"in\">in</span> <b>3D<sup>*</sup></b>?</p>\n        <span class=\"footnote\">* beat that, prezi ;)</span>\n    </div>\n\n    <div id=\"overview\" class=\"step\" data-x=\"3000\" data-y=\"1500\" data-scale=\"10\">\n    </div>\n\n</div>\n\n<div class=\"hint\">\n    <p>Use a spacebar or arrow keys to navigate</p>\n</div>\n\n<script src=\"js/impress.js\"></script>\n\n</body>\n</html>",
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <title>impress.js | presentation tool based on the power of CSS3 transforms and transitions in modern browsers | by Bartek Szopka @bartaz</title>\n    \n    <meta name=\"description\" content=\"impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.\">\n    <meta name=\"author\" content=\"Bartek Szopka\" />\n\n    <link href=\"http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic\" rel=\"stylesheet\" />\n\n    <link href=\"css/impress.css\" rel=\"stylesheet\" />\n</head>\n<body>\n\n<div id=\"impress\" class=\"impress-not-supported\">\n\n    <div class=\"fallback-message\">\n        <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>\n        <p>For the best experience please use the latest <b>Chrome</b> or <b>Safari</b> browser. Firefox 10 (to be released soon) will also handle it.</p>\n    </div>\n\n    <div id=\"george\" class=\"step\" data-x=\"100\" data-y=\"100\" data-rotate=\"0\" data-scale=\"2\" date-z=\"0\">\n    <p> George </p>\n       <img src=\"images/pirate.png\" />\n    </div>\n\n    <div id=\"forrest\" class=\"step\" data-x=\"800\" data-y=\"100\" data-z=\"1\" data-rotate=\"0\" data-scale=\"10\">\n       <img class=\"tree\" id=\"tree-1\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-2\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-3\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-4\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-5\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-6\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-7\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-8\" src=\"images/tree.png\" />\n       <img class=\"tree\" id=\"tree-9\" src=\"images/tree.png\" />\n       <img  class=\"tree\"id=\"tree-10\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-11\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-12\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-13\" src=\"images/tree.png\" />\n        <img  class=\"tree\"id=\"tree-14\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-15\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-16\" src=\"images/tree.png\" />\n         <img  class=\"tree\"id=\"tree-17\" src=\"images/tree.png\" />\n\n    </div>\n\n    <div id=\"broken-forest\" class=\"step\" data-x=\"15000\" data-y=\"-1050\"  data-scale=\"6\">\n          <img class=\"tree\" id=\"tree-1\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree\" id=\"tree-2\" src=\"images/tree1.png\" width=\"128\" height=\"128\"/>\n       <img class=\"tree\" id=\"tree-3\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree\" id=\"tree-4\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree\" id=\"tree-5\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree\" id=\"tree-6\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree\" id=\"tree-7\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree\" id=\"tree-8\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree\" id=\"tree-9\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img  class=\"tree\"id=\"tree-10\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n        <img  class=\"tree\"id=\"tree-11\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree\"id=\"tree-12\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree\"id=\"tree-13\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree\"id=\"tree-14\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree\"id=\"tree-15\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree\"id=\"tree-16\" src=\"images/tree1.png\" width=\"128\" height=\"128\" />\n         <img  class=\"tree\"id=\"tree-17\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img class=\"ninja\" id=\"ninja-1\" src=\"images/ninja.png\"  width=\"128\" height=\"128\"/>\n         <img class=\"ninja\" id=\"ninja-2\" src=\"images/ninja.png\"  width=\"128\" height=\"128\"/>\n         <img class=\"ninja\" id=\"ninja-3\" src=\"images/ninja.png\"  width=\"128\" height=\"128\"/>\n    </div>\n\n\n   <div id=\"good-intentions\" class=\"step\" data-x=\"23000\" data-y=\"13000\" data-scale=\"6\" data-rotate=\"300\">\n       <p> Good intentions </p>\n      <img src=\"images/ninja.png\" width=\"128\" height=\"128\" />\n        <img src=\"images/tree.png\" />\n    </div>\n\n     <div id=\"damage\" class=\"step\" data-x=\"26000\" data-y=\"16000\" data-scale=\"6\" data-rotate=\"300\">\n            <p> How it always ends up </p>\n       <img src=\"images/ninja.png\" />\n        <img src=\"images/tree1.png\" />\n    </div>\n\n    <div id=\"getting-there\" class=\"step\" data-x=\"6000\" data-y=\"7000\">\n       <img class=\"tree tree-1\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-2\" src=\"images/tree1.png\" width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-3\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-4\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-5\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-6\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-7\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-8\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-9\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img  class=\"tree tree-10\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-11\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-12\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-13\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-14\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree tree-15\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree tree-16\" src=\"images/tree.png\" width=\"128\" height=\"128\" />\n         <img  class=\"tree tree-17\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n      \n    </div>\n\n    <div id=\"little-broken\" class=\"step\" data-x=\"6000\" data-y=\"8000\">\n       <img class=\"tree tree-1\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-2\" src=\"images/tree1.png\" width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-3\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-4\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-5\" src=\"images/tree.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-6\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-7\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-8\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-9\" src=\"images/tree.png\"   width=\"128\" height=\"128\"/>\n       <img  class=\"tree tree-10\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-11\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-12\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-13\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-14\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree tree-15\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree tree-16\" src=\"images/tree.png\" width=\"128\" height=\"128\" />\n         <img  class=\"tree tree-17\" src=\"images/tree.png\"  width=\"128\" height=\"128\"/>\n    </div>\n\n    <div id=\"all-broken\" class=\"step\" data-x=\"6000\" data-y=\"8000\">\n       <img class=\"tree tree-1\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-2\" src=\"images/tree1.png\" width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-3\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-4\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-5\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-6\" src=\"images/tree1.png\"  width=\"128\" height=\"128\" />\n       <img class=\"tree tree-7\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-8\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img class=\"tree tree-9\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n       <img  class=\"tree tree-10\" src=\"images/tree1.png\"   width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-11\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-12\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-13\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n        <img  class=\"tree tree-14\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree tree-15\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n         <img  class=\"tree tree-16\" src=\"images/tree1.png\" width=\"128\" height=\"128\" />\n         <img  class=\"tree tree-17\" src=\"images/tree1.png\"  width=\"128\" height=\"128\"/>\n    </div>\n\n\n    <div id=\"one-man\" class=\"step\" data-x=\"6000\" data-y=\"8500\">\n    <p> Just one man </p>\n       <img src=\"images/pirate.png\" />\n        <img src=\"images/tree.png\" />\n    </div>\n\n    <div id=\"how-to\" class=\"step\" data-x=\"6000\" data-y=\"9000\" date-z=\"3\">\n    <p> What is george to do? </p>\n       <img src=\"images/pirate.png\" />\n    </div>\n\n    <div id=\"overview\" class=\"step\" data-x=\"6100\" data-y=\"6000\" data-scale=\"10\">\n\n    </div>\n\n    \n\n</div>\n\n<div class=\"hint\">\n    <p>Use a spacebar or arrow keys to navigate</p>\n</div>\n\n<script src=\"js/impress.js\"></script>\n\n</body>\n</html>",
 			"file": "index.html",
-			"file_size": 4068,
-			"file_write_time": 129711735304714026,
+			"file_size": 10202,
+			"file_write_time": 129711799564379469,
 			"settings":
 			{
-				"buffer_size": 3936,
+				"buffer_size": 10028,
 				"line_ending": "Windows"
 			}
 		},
@@ -30,7 +30,7 @@
 			"file": "css/impress.css",
 			"settings":
 			{
-				"buffer_size": 13530,
+				"buffer_size": 16625,
 				"line_ending": "Windows"
 			}
 		}
@@ -128,6 +128,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\">",
+			"getting-there",
 			" <aside =\"note\">",
 			"preFilter",
 			"<aside>",
@@ -141,11 +143,13 @@
 			"bg-google-blue"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"little-broken\n\n#getting-there .tree-3 {\n\n    left: 400px;\n    top: 0px;\n}\n\n#getting-there .tree-4 {\n\n       left: 300px;\n    top: -300px;\n}\n\n#getting-there .tree-5 {\n\n    left: 200px;\n    top: -124px;\n}\n\n#getting-there .tree-6 {\n\n      left: -100px;\n    top: -200px;\n}\n\n#getting-there .tree-7 {\n\n       left: 47px;\n    top: -76px;\n}\n#getting-there .tree-8 {\n\n      left: 200px;\n    top: -124px;\n}\n\n#getting-there .tree-9 {\n\n    left:-100px;\n    top: -100px;\n}\n\n#getting-there .tree-10 {\n\n    left:15px;\n    top: 100px;\n}\n\n#getting-there .tree-11 {\n\n    left: -100px;\n    top: 150px;\n}\n#getting-there .tree-12 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-13 {\n\n    left: 300px;\n    top: -100px;\n}\n#getting-there .tree-14 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-15 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-16 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-17 {\n\n    left:333px;\n    top: 61px;\n}",
+			"\n\n#getting-there .tree-3 {\n\n    left: 400px;\n    top: 0px;\n}\n\n#getting-there .tree-4 {\n\n       left: 300px;\n    top: -300px;\n}\n\n#getting-there .tree-5 {\n\n    left: 200px;\n    top: -124px;\n}\n\n#getting-there .tree-6 {\n\n      left: -100px;\n    top: -200px;\n}\n\n#getting-there .tree-7 {\n\n       left: 47px;\n    top: -76px;\n}\n#getting-there .tree-8 {\n\n      left: 200px;\n    top: -124px;\n}\n\n#getting-there .tree-9 {\n\n    left:-100px;\n    top: -100px;\n}\n\n#getting-there .tree-10 {\n\n    left:15px;\n    top: 100px;\n}\n\n#getting-there .tree-11 {\n\n    left: -100px;\n    top: 150px;\n}\n#getting-there .tree-12 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-13 {\n\n    left: 300px;\n    top: -100px;\n}\n#getting-there .tree-14 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-15 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-16 {\n\n    left:-100px;\n    top: -100px;\n}\n#getting-there .tree-17 {\n\n    left:333px;\n    top: 61px;\n}",
 			"<aside class=\"note\">",
 			"<aside =\"note\">"
 		],
@@ -166,25 +170,25 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3936,
+						"buffer_size": 10028,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1142,
-								1142
+								9885,
+								9885
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 145.0,
+						"translation.y": 2397.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -201,8 +205,8 @@
 						"selection":
 						[
 							[
-								9896,
-								9896
+								4752,
+								4758
 							]
 						],
 						"settings":
@@ -212,7 +216,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4960.0,
+						"translation.y": 4672.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -222,15 +226,15 @@
 					"file": "css/impress.css",
 					"settings":
 					{
-						"buffer_size": 13530,
+						"buffer_size": 16625,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13293,
-								13293
+								16571,
+								16571
 							]
 						],
 						"settings":
@@ -240,7 +244,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8929.0,
+						"translation.y": 13663.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -281,7 +285,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
