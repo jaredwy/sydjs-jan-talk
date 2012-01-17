@@ -11,3 +11,51 @@ img {
 	-moz-box-shadow: 1px 1px 1px 1px rgba(150, 150, 150, 1);
 	box-shadow: 1px 1px 1px 1px rgba(150, 150, 150, 1);
 }
+
+
+label { visibility: hidden;}
+
+
+#content {
+	font-size: 28px;
+}
+
+#csc {
+  background : #669900 url(../images/csc_tl.png) no-repeat;
+  width : 45em;
+  height : auto;
+  position : relative;
+  padding : 30px 40px;
+}
+
+
+.tr, .bl, .br {
+  position : absolute;
+  width : 39px;
+  height : 39px;  /* corner images are 40x40 */
+  display : block;
+  margin-bottom : -1px;  /* this is for IE */
+}
+
+
+.tr {
+  background : transparent url(../images/csc_tr.png) no-repeat;
+  top : 0;
+  right : 0;
+}
+
+
+.bl {
+  background : transparent url(../images/csc_bl.png) no-repeat;
+  bottom : 0;
+  left : 0;
+}
+
+
+.br {
+  background : transparent url(../images/csc_br.png) no-repeat;
+  right : 0;
+  bottom : 0;
+}
+
+
