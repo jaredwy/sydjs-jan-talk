@@ -66,8 +66,16 @@ setTimeout(function() {
 	});
 
 
+	var button = document.querySelector("button"),
+		input = document.querySelector("input");
+	button.addEventListener('click',function() {
+			var text = input.value;
+			var template = '<div id="csc"> <span class="tr"></span> <span id="content">+' text  + '</span> <span class="bl"></span> <span class="br"></span> </div>';
+				
+	});
 
-	var template = '<div id="csc"> <span class="tr"></span> <span id="content">+' text  + '</span> <span class="bl"></span> <span class="br"></span> </div>';
+
+
 
 
 
